@@ -1,3 +1,3 @@
 # Notes of calculus for the School of Computer Science, Nanjing University. 
-# Contents are continuously updated. 
+# Questions are boundless, but rules are limited.
 # Errors may exist, and your understanding is appreciated.
